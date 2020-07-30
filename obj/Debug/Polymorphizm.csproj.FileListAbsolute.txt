@@ -1,0 +1,6 @@
+C:\Users\Gena\source\repos\Polymorphizm\bin\Debug\Polymorphizm.exe.config
+C:\Users\Gena\source\repos\Polymorphizm\bin\Debug\Polymorphizm.exe
+C:\Users\Gena\source\repos\Polymorphizm\bin\Debug\Polymorphizm.pdb
+C:\Users\Gena\source\repos\Polymorphizm\obj\Debug\Polymorphizm.csprojAssemblyReference.cache
+C:\Users\Gena\source\repos\Polymorphizm\obj\Debug\Polymorphizm.exe
+C:\Users\Gena\source\repos\Polymorphizm\obj\Debug\Polymorphizm.pdb
